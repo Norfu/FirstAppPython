@@ -1,0 +1,2 @@
+Carrot,150,35,65,55,6,None,None,None 
+poireau,520,375,675,755,76,None,None,None 
